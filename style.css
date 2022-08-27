@@ -1,0 +1,58 @@
+/* selettore {
+proprietà: valore;
+proprietà: valore;
+} :  */
+
+body{
+  margin: auto;
+  width: 1800px;
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  color: white;
+}
+
+.Oggetto{
+  background-color: grey;
+  width: 20%;
+  display: inline-block;
+  color: white;
+  border-color:black;
+}
+
+.Corpo{
+  background-color: grey;
+  width: 76%;
+  display: inline-block;
+  font-size: 16px;
+  color: white;
+}
+
+.Titolo{
+  font-size: 40px;
+  font-family: Arial;
+  color: white;
+}
+
+.copyright{
+  text-align: center;
+  color: white;
+}
+
+.emailricevute{
+  color: white;
+  font-size: 25px;
+}
+
+.unreadcount{
+  color: red;
+  background-color: orange;
+  border-radius: 50%;
+  padding: 1px;
+}
+
+.stellina{
+  color: white;
+}
+
+#nome{
+  font-size: 25px;
+}
